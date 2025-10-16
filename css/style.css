@@ -1,0 +1,35 @@
+
+
+body{
+    font-family: sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+    button{
+    background-color: rgb(48, 47, 47);
+    height:50px;
+    width:100px;
+    border: 2px solid black;
+    border-radius: 20px;
+    cursor:pointer;
+}
+button:hover{
+    transform:scale(1.1);
+}
+#heart{
+    font-size: large;
+  color: white;
+}
+#count{
+     font-size: larger;
+     color:white;
+}
+#text{
+  
+    margin-top: 0px;
+    font-size: larger;
+     color:white;
+}
